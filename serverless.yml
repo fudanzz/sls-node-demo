@@ -10,7 +10,7 @@ provider:
   profile: cn
 
 functions:
-  currentTime:
+  helloworld:
     handler: function/helloworld.handler
     events:
       - http:
